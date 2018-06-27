@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/ogrencimenu"
+        android:title="STUDENT"
+        android:icon="@drawable/student"
+        app:showAsAction="always|withText">
+        <menu>
+            <item android:id="@+id/ogrenci1" android:title="Ahmet ÇALIK"></item>
+            <item android:id="@+id/ogrenci2" android:title="Buse SAĞLAM"></item>
+            <item android:id="@+id/ogrenci3" android:title="Caner KORKMAZ"></item>
+            <item android:id="@+id/ogrenci4" android:title="Demet AYDIN"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/universitemenu"
+        android:title="UNIVERSITY"
+        android:icon="@drawable/university"
+        app:showAsAction="always|withText">
+        <menu>
+            <item android:id="@+id/universite1" android:title="Anadolu Üniversitesi"></item>
+            <item android:id="@+id/universite2" android:title="Orta Doğu Teknik Üniversitesi"></item>
+            <item android:id="@+id/universite3" android:title="İstanbul Üniversitesi"></item>
+            <item android:id="@+id/universite4" android:title="Marmara Üniversitesi"></item>
+            <item android:id="@+id/universite5" android:title="Yıldız Teknik Üniversitesi"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/fakultemenu"
+        android:title="FACULTY"
+        android:icon="@drawable/faculty"
+        app:showAsAction="always|withText">
+        <menu>
+            <item android:id="@+id/fakulte1" android:title="İİBF"></item>
+            <item android:id="@+id/fakulte2" android:title="Güzel Sanatlar"></item>
+            <item android:id="@+id/fakulte3" android:title="Mühendislik"></item>
+            <item android:id="@+id/fakulte4" android:title="Tıp"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/enstitumenu"
+        android:title="ENSTITU"
+        android:icon="@drawable/enstitu"
+        app:showAsAction="always|withText">
+        <menu>
+            <item android:id="@+id/enstitu1" android:title="Eğitim Bilimleri"></item>
+            <item android:id="@+id/enstitu2" android:title="Fen Bilimleri"></item>
+            <item android:id="@+id/enstitu3" android:title="Sosyal Bilimler"></item>
+        </menu>
+    </item>
+    <item android:id="@+id/itemTurkish"
+        android:title="Turkish"
+        app:showAsAction="never"/>
+    <item android:id="@+id/itemEnglish"
+        android:title="English"
+        app:showAsAction="never"/>
+
+</menu>

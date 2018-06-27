@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+
+    <string name="hintogrenci">Name of student</string>
+    <string name="hintuniversite">University of student</string>
+    <string name="hintfakulte">Faculty or enstitu of student</string>
+
+    <string name="titleogrenci">STUDENT</string>
+    <string name="titleuniversite">UNIVERSITY</string>
+    <string name="titlefakulte">FACULTY</string>
+    <string name="titleenstitu">ENSTITU</string>
+</resources>

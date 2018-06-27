@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+
+    <string name="hintogrenci">Öğrencinin adı soyadı</string>
+    <string name="hintuniversite">Öğrencinin üniversitesi</string>
+    <string name="hintfakulte">Öğrencinin fakültesi ya da enstitüsü</string>
+
+    <string name="titleogrenci">ÖĞRENCİ</string>
+    <string name="titleuniversite">ÜNİVERSİTE</string>
+    <string name="titlefakulte">FAKÜLTE</string>
+    <string name="titleenstitu">ENSTİTÜ</string>
+</resources>
